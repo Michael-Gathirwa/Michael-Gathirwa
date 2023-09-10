@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Michael-Gathirwa 
-- 🌱 I’m currently learning Javascript, HTML & CSS
+- 🌱 I’m currently learning Javascript, HTML & CSS, Cybersecurity,React.js
 - 💞️ I’m looking to collaborate on big upcoming projects
 - 📫 How to reach me Github, mikekenn8791@gmail.com, insta@ mikeal.iam
 
